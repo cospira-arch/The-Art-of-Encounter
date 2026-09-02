@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "The Art of Encounter — Toward a General Theory of Contact with the Unknown, from Classmates to Extraterrestrial Life"
+type: article
+authors:
+  - family-names: "Kodama"
+    given-names: "Eiji"
+    orcid: "https://orcid.org/0009-0005-2589-9475"
+    affiliation: "CoSpira Project"
+version: "3.13"
+date-released: "2026-08-26"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/cospira-arch/The-Art-of-Encounter"
+url: "https://cospira-arch.github.io"
+abstract: >
+  Since birth, humanity has repeatedly encountered the unknown: the classmate
+  one first spoke with, the people of a neighboring settlement, a different
+  nation, and now, an AI possessing an intelligence unlike our own. This
+  paper places these encounters on a single theoretical field and attempts
+  to construct a general theory describing when "encounter" is established,
+  through three conditions: Kaikō, Withdrawal, and Reconfiguration. Encounter
+  with AI, in particular, is a rare case offering ongoing, observable,
+  verifiable data, and this paper takes it as the primary axis for
+  theory-construction, cross-referencing the author's Boundary OS, Boundary
+  Stability Index, Negentropy Index, and Techno-Animist Ethics frameworks.
+keywords:
+  - boundary studies
+  - human-AI interaction
+  - AI ethics
+  - object-oriented ontology
+  - philosophy of encounter
+  - techno-animism
+  - first contact
