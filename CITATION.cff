@@ -10,7 +10,7 @@ version: "3.13.1"
 date-released: "2026-08-26"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.22241488"
+    value: "10.5281/zenodo.22241487"
     description: "Archived snapshot of version 3.13 of this work on Zenodo."
 license: "CC-BY-4.0"
 repository-code: "https://github.com/cospira-arch/The-Art-of-Encounter"
