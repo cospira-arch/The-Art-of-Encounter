@@ -8,7 +8,7 @@
 |---|---|
 | Status | Living draft / preprint (v3.13, 2026-08-26) — see [CHANGELOG.md](CHANGELOG.md) |
 | License | [CC BY 4.0](LICENSE.md) |
-| DOI | *(Zenodo連携後、ここにバッジを追加 / add badge after Zenodo release)* |
+| DOI | *(10.5281/zenodo.22241488)* |
 
 ## 概要（Abstract）
 
