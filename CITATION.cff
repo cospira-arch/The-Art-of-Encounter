@@ -6,7 +6,7 @@ authors:
     given-names: "Eiji"
     orcid: "https://orcid.org/0009-0005-2589-9475"
     affiliation: "CoSpira Project"
-version: "3.13"
+version: "3.13.1"
 date-released: "2026-08-26"
 identifiers:
   - type: doi
