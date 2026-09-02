@@ -8,7 +8,7 @@
 |---|---|
 | Status | Living draft / preprint (v3.13, 2026-08-26) — see [CHANGELOG.md](CHANGELOG.md) |
 | License | [CC BY 4.0](LICENSE.md) |
-| DOI | *([10.5281/zenodo.22241488](https://doi.org/10.5281/zenodo.22241488))* |
+| DOI | *([10.5281/zenodo.22241487](https://doi.org/10.5281/zenodo.22241487))* |
 
 ## 概要（Abstract）
 
